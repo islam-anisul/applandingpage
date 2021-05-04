@@ -1,0 +1,506 @@
+@media (max-width: 1199.98px) {
+    ...
+}
+
+@media (max-width: 991.98px) {
+    .banner_left_part .banner_title h1 {
+        font-size: 60px;
+    }
+
+    .banner_overly {
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+
+    .about_overly {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .about_left img {
+        height: 310px;
+    }
+
+    .about_right {
+        padding-top: 25px;
+    }
+
+    .aditional_content {
+        text-align: center;
+    }
+
+    .features_overly {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    #pricing {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+    .pricing_header p {=
+	text-align: center;
+}
+    #newsletter {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+    #contact {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.footer_menu,.copyright {
+	text-align: center;
+}
+        .navbar {
+        background: rgba(0, 0, 0, 0.5);
+        text-align: center;
+    }
+
+    .navbar-collapse {
+        background: rgba(0, 0, 0, 0.85);
+    }
+}
+
+
+@media (max-width: 360px) {
+    .banner_left_part .banner_title h1 {
+        font-size: 35px;
+    }
+
+    .banner_text_slide .text_slide p {
+        font-size: 22px;
+    }
+
+    .banner_overly {
+        padding-top: 0px;
+        padding-bottom: 30px;
+    }
+
+    .banner_left_part a img {
+        height: 35px;
+        width: 35px;
+        margin-left: 13px;
+    }
+
+    .about_overly {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .about_left img {
+        height: 323px;
+        margin-top: 60px;
+    }
+
+    .about_right .about_text h5 {
+        font-size: 18px;
+        margin-top: 0px;
+        margin-bottom: 30px;
+    }
+
+    .about_right {
+        padding-top: 40px;
+    }
+
+    .about_right .about_text p {
+        line-height: 26px;
+        margin-top: 15px;
+    }
+
+    .social_media {
+        margin-top: 25px;
+    }
+
+    .features_overly {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    #pricing {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .get_app {
+        margin-top: 30px;
+    }
+
+    #newsletter {
+        padding-top: 30px;
+        padding-bottom: 30px;
+
+    }
+
+    .subscribe_header {
+        text-align: center;
+    }
+
+    #contact {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    #back_top_button p a img {
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+
+    }
+
+    .copyright p {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    #back_top_button {
+        right: 0;
+        bottom: 10px;
+        z-index: 99;
+    }
+
+    .navbar {
+        background: rgba(0, 0, 0, 0.5);
+        text-align: center;
+    }
+
+    .navbar-collapse {
+        background: rgba(0, 0, 0, 0.85);
+    }
+}
+
+
+@media (max-width: 767.98px) {
+    .banner_left_part .banner_title h1 {
+        font-size: 60px;
+    }
+
+    .banner_overly {
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+
+    .about_overly {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .about_left img {
+        height: 310px;
+    }
+
+    .about_right {
+        padding-top: 25px;
+    }
+
+    .aditional_content {
+        text-align: center;
+    }
+
+    .features_overly {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    #pricing {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+    .pricing_header p {=
+	text-align: center;
+}
+    #newsletter {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+    #contact {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.footer_menu,.copyright {
+	text-align: center;
+}
+        .navbar {
+        background: rgba(0, 0, 0, 0.5);
+        text-align: center;
+    }
+
+    .navbar-collapse {
+        background: rgba(0, 0, 0, 0.85);
+    }
+}
+
+
+@media (max-width: 360px) {
+    .banner_left_part .banner_title h1 {
+        font-size: 35px;
+    }
+
+    .banner_text_slide .text_slide p {
+        font-size: 22px;
+    }
+
+    .banner_overly {
+        padding-top: 0px;
+        padding-bottom: 30px;
+    }
+
+    .banner_left_part a img {
+        height: 35px;
+        width: 35px;
+        margin-left: 13px;
+    }
+
+    .about_overly {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .about_left img {
+        height: 323px;
+        margin-top: 60px;
+    }
+
+    .about_right .about_text h5 {
+        font-size: 18px;
+        margin-top: 0px;
+        margin-bottom: 30px;
+    }
+
+    .about_right {
+        padding-top: 40px;
+    }
+
+    .about_right .about_text p {
+        line-height: 26px;
+        margin-top: 15px;
+    }
+
+    .social_media {
+        margin-top: 25px;
+    }
+
+    .features_overly {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    #pricing {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .get_app {
+        margin-top: 30px;
+    }
+
+    #newsletter {
+        padding-top: 30px;
+        padding-bottom: 30px;
+
+    }
+
+    .subscribe_header {
+        text-align: center;
+    }
+
+    #contact {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    #back_top_button p a img {
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+
+    }
+
+    .copyright p {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    #back_top_button {
+        right: 0;
+        bottom: 10px;
+        z-index: 99;
+    }
+
+    .navbar {
+        background: rgba(0, 0, 0, 0.5);
+        text-align: center;
+    }
+
+    .navbar-collapse {
+        background: rgba(0, 0, 0, 0.85);
+    }
+}
+
+
+@media (max-width: 575.98px) {
+    .banner_left_part .banner_title h1 {
+        font-size: 60px;
+    }
+
+    .banner_overly {
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+
+    .about_overly {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .about_left img {
+        height: 310px;
+    }
+
+    .about_right {
+        padding-top: 25px;
+    }
+
+    .aditional_content {
+        text-align: center;
+    }
+
+    .features_overly {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    #pricing {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+    .pricing_header p {=
+	text-align: center;
+}
+    #newsletter {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+    #contact {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.footer_menu,.copyright {
+	text-align: center;
+}
+        .navbar {
+        background: rgba(0, 0, 0, 0.5);
+        text-align: center;
+    }
+
+    .navbar-collapse {
+        background: rgba(0, 0, 0, 0.85);
+    }
+}
+
+
+@media (max-width: 360px) {
+    .banner_left_part .banner_title h1 {
+        font-size: 35px;
+    }
+
+    .banner_text_slide .text_slide p {
+        font-size: 22px;
+    }
+
+    .banner_overly {
+        padding-top: 0px;
+        padding-bottom: 30px;
+    }
+
+    .banner_left_part a img {
+        height: 35px;
+        width: 35px;
+        margin-left: 13px;
+    }
+
+    .about_overly {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .about_left img {
+        height: 323px;
+        margin-top: 60px;
+    }
+
+    .about_right .about_text h5 {
+        font-size: 18px;
+        margin-top: 0px;
+        margin-bottom: 30px;
+    }
+
+    .about_right {
+        padding-top: 40px;
+    }
+
+    .about_right .about_text p {
+        line-height: 26px;
+        margin-top: 15px;
+    }
+
+    .social_media {
+        margin-top: 25px;
+    }
+
+    .features_overly {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    #pricing {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .get_app {
+        margin-top: 30px;
+    }
+
+    #newsletter {
+        padding-top: 30px;
+        padding-bottom: 30px;
+
+    }
+
+    .subscribe_header {
+        text-align: center;
+    }
+
+    #contact {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    #back_top_button p a img {
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+
+    }
+
+    .copyright p {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    #back_top_button {
+        right: 0;
+        bottom: 10px;
+        z-index: 99;
+    }
+
+    .navbar {
+        background: rgba(0, 0, 0, 0.5);
+        text-align: center;
+    }
+
+    .navbar-collapse {
+        background: rgba(0, 0, 0, 0.85);
+    }
+}
